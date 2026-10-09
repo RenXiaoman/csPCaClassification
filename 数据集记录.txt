@@ -1,0 +1,16 @@
+1
+https://www.sciencedirect.com/science/article/pii/S0169260725000574?utm_source=openai
+https://github.com/hongkai-wei/LMTTM-VMI
+
+
+2.
+https://www.sciencedirect.com/science/article/pii/S0895611124001290?utm_source=openai
+https://github.com/marziehoghbaie/VLFATRollout
+
+3.
+https://www.sciencedirect.com/science/article/abs/pii/S1566253526002137?utm_source=openai
+https://github.com/jylEcho/M3-Net
+
+4.
+https://www.sciencedirect.com/science/article/pii/S2090447925004551?utm_source=openai
+https://github.com/Hamza-code-hub/3D-MobiBrainNet-Alzheimers-Classification
